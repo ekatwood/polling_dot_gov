@@ -2,15 +2,4 @@
 
 An open source straw poll app, with KYC
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This would be a web app that would allow users to register using rigorous KYC, then make or participate in polls. It would use the Aleph Zero blockchain to count votes. Also an open source project.
